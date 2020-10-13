@@ -18,7 +18,7 @@
     "babel-preset-react": "^6.16.0",
     "css-loader": "^0.28.11",
     "directory-named-webpack-plugin": "^1.2.0",
-    "react": "^15.3.2",
+    "react": "^16.13.1",
     "react-dom": "^15.3.2",
     "style-loader": "^0.23.1",
     "react-redux": "^5.1.2",
